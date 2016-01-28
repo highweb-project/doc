@@ -8,4 +8,4 @@ The HighWeb project aims to promote the mobile web platform for high performance
 * WebCL
 * [JavaScript Parallel Loading](https://github.com/highweb-project/highweb-parallelwebkit)
 * [JavaScript Code Snapshot](https://github.com/highweb-project/highweb-codesnapshot)
-* [[WebCL-HTML5)(https://github.com/highweb-project/highweb-webcl-html5spec)
+* [WebCL-HTML5](https://github.com/highweb-project/highweb-webcl-html5spec)
