@@ -1,7 +1,7 @@
 # doc
-Introduction to HighWeb project
+==Introduction to HighWeb project==
 
-Repositories
+==Repositories==
 * WebCL
 * JavaScript Parallel Loading
 * JavaScript Code Snapshot
