@@ -6,6 +6,5 @@ The HighWeb project aims to promote the mobile web platform for high performance
 
 ## Repositories
 * WebCL
-* 
-* [JavaScript Parallel Loading](highweb-parallelwebkit)
+* [JavaScript Parallel Loading](https://github.com/highweb-project/highweb-parallelwebkit)
 * JavaScript Code Snapshot
